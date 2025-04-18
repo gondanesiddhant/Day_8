@@ -40,7 +40,7 @@ This repository contains a **Sales Dashboard** designed to provide a visual and 
 - Product performance highlights.
 
 ## 🛠 Tools Used
-- Power BI / Tableau (or mention any specific BI tool or tech stack you used).
+- Power BI.
 - Data visualization best practices applied for clarity and insight.
 
 ## 📂 How to Use
